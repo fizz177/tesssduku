@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "11",
+      "password": "hafiz"
+    },
+    {
+      "whatsappNumber": "10",
+      "password": "nina"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "11",
+      "token": "16"
+    },
+    {
+      "whatsappNumber": "10",
+      "token": "20"
+    }
+  ]
+}
